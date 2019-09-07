@@ -1,6 +1,6 @@
-### React-WebPack-Babel with ReactHotLoader
+# React + WebPack + Babel + ReactHotLoader + Lint Boilerplate
 
-## Let it run
+### Let it run
 
 ```bash
 npm install
